@@ -3,3 +3,5 @@ This line was edited from the local repo.
 This line was created from the Github WebUI.
 This line was created from the local repo.
 Sruthi is adding this line
+
+This line was added in Feature2.
